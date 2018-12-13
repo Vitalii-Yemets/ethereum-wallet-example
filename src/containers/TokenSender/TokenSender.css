@@ -1,0 +1,10 @@
+.TokenSender {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.TokenSender .md-form {
+	width: 500px;
+}
+
